@@ -21,3 +21,8 @@
 
 ##Pandas#2: Fill missing values in a dataset with column-wise means.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(58).png)
+
+##Matplotlib#1: Plot a line graph showing temperature variations over a week.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(59).png)
+
+
