@@ -15,3 +15,6 @@
 
 ##NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(56).png)
+
+##Pandas#1: Load a CSV file of sales data and compute total revenue per product.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(57).png)
