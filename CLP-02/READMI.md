@@ -9,3 +9,6 @@
 
 ##Dictionary: Count word occurrences in a given text and store them in a dictionary.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(54).png)
+
+##NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(55).png)
