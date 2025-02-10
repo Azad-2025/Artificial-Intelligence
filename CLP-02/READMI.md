@@ -25,4 +25,5 @@
 ##Matplotlib#1: Plot a line graph showing temperature variations over a week.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(59).png)
 
-
+##Matplotlib#2: Create a bar chart comparing sales revenue across different regions.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(60).png)
