@@ -12,3 +12,6 @@
 
 ##NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(55).png)
+
+##NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(56).png)
