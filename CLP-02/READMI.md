@@ -18,3 +18,6 @@
 
 ##Pandas#1: Load a CSV file of sales data and compute total revenue per product.
 ![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(57).png)
+
+##Pandas#2: Fill missing values in a dataset with column-wise means.
+![](https://github.com/Azad-2025/Artificial-Intelligence/raw/main/CLP-02/ScreenShorts/Screenshot%20(58).png)
