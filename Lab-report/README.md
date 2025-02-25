@@ -2,4 +2,4 @@ Write a program that generates a random N×N grid (N between 4 and 7) with non-o
 source and goal states. It performs DFS to find a path from source to goal and prints the grid,
 source, goal, DFS path, and topological order of node traversal.
 
-
+![image alt](https://github.com/Azad-2025/Artificial-Intelligence/blob/main/Lab-report/Screenshot%20(61).png?raw=true)
