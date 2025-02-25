@@ -3,4 +3,4 @@ source and goal states. It performs DFS to find a path from source to goal and p
 source, goal, DFS path, and topological order of node traversal.
 OUTPUT:
 
-![image alt](https://github.com/Azad-2025/Artificial-Intelligence/blob/main/Lab-report/Screenshot%20(61).png?raw=true)
+![image alt](https://github.com/Azad-2025/Artificial-Intelligence/blob/main/Lab-report/Output.png?raw=true)
