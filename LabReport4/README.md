@@ -1,8 +1,8 @@
 Here is an image of my problems Output:
 
-![My Image](11.png)
-![My Image](12.png)
+![Image_1](11.png)
+![Image_2](12.png)
 ![My Image](13.png)
-![My Image](14.png)
-![My Image](15.png)
-
+![Image_3](14.png)
+![Image_4](15.png)
+![Image_5](16.png)
